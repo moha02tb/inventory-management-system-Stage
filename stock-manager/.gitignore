@@ -24,3 +24,4 @@ yarn-error.log*
 
 # ignore plain env files as well
 .env
+\n# ignore internal backup git dir\n.git.backup
